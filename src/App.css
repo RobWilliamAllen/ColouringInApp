@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0; 
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+button {
+  background-color: #FFFFFF;
+}
+
+.squares {
+  height: 100vh;
+  width: 100vw;   
+  display: flex;
+  flex-wrap: wrap;
+  background-color: white; 
+}
+
+.square {  
+  height: 4vw;
+  width: 4vw;
+  align-content: stretch;
+  flex-basis: auto;  
+  border: 0px solid white;
+}
+
+
+
+
+
+
+
+
