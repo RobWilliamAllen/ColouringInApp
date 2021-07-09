@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ColouringInApp/static/css/main.c2fafc84.chunk.css",
+    "main.js": "/ColouringInApp/static/js/main.184b7dd2.chunk.js",
+    "main.js.map": "/ColouringInApp/static/js/main.184b7dd2.chunk.js.map",
+    "runtime-main.js": "/ColouringInApp/static/js/runtime-main.27464914.js",
+    "runtime-main.js.map": "/ColouringInApp/static/js/runtime-main.27464914.js.map",
+    "static/js/2.11cfca07.chunk.js": "/ColouringInApp/static/js/2.11cfca07.chunk.js",
+    "static/js/2.11cfca07.chunk.js.map": "/ColouringInApp/static/js/2.11cfca07.chunk.js.map",
+    "static/js/3.ef2bd129.chunk.js": "/ColouringInApp/static/js/3.ef2bd129.chunk.js",
+    "static/js/3.ef2bd129.chunk.js.map": "/ColouringInApp/static/js/3.ef2bd129.chunk.js.map",
+    "index.html": "/ColouringInApp/index.html",
+    "static/css/main.c2fafc84.chunk.css.map": "/ColouringInApp/static/css/main.c2fafc84.chunk.css.map",
+    "static/js/2.11cfca07.chunk.js.LICENSE.txt": "/ColouringInApp/static/js/2.11cfca07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27464914.js",
+    "static/js/2.11cfca07.chunk.js",
+    "static/css/main.c2fafc84.chunk.css",
+    "static/js/main.184b7dd2.chunk.js"
+  ]
+}
